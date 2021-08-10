@@ -16,11 +16,6 @@ Create workouts, complete workouts, and track your progress with the Workout Tra
 5. Enter "npm run seed"
 6. Enter "node server" to start the app.
 
-## Usage
-https://drive.google.com/file/d/1jg5F_xCbiNLJ7q89j2u0aIzAPMhwFGqF/view
-
-
-
 ## License
 
 ![badge](https://img.shields.io/static/v1?label=license&message=MIT&color=blue)
