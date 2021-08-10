@@ -24,4 +24,4 @@ MIT License
 
 ## Questions
 - [GitHub](https://github.com/jkouneski)
-- Email any questions to jkouneski@yahoo.com
+- Email any questions to joeykouneski@gmail.com
